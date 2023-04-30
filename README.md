@@ -16,5 +16,6 @@ I hope to learn details about this company's promotion criteria and how features
 By adding a second model and splitting the dataset into two - by controllable and uncontrollable features, I may uncover trends about this company's promomtion criteria that may be questionable or undesireable. In my opinion this is a more interesting approach than a generic predictive model from an entire dataset.
 
 ### Presentation  
-Slides: https://docs.google.com/presentation/d/1gYxsHx9XpK0t5OT3eDaPuf4g9zJ9ZJ5q8sr7DIcCl4A/edit?usp=sharing  
-Video: https://drive.google.com/file/d/1VdqAmzBbGXfwKJFWMcZLYkydDuxmJ5sH/view?usp=sharing
+**Slides:** https://docs.google.com/presentation/d/1gYxsHx9XpK0t5OT3eDaPuf4g9zJ9ZJ5q8sr7DIcCl4A/edit?usp=sharing  
+
+**Video:** https://drive.google.com/file/d/1VdqAmzBbGXfwKJFWMcZLYkydDuxmJ5sH/view?usp=sharing
